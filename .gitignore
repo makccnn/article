@@ -1,0 +1,18 @@
+#folder 
+logs/
+bin/
+cmd/
+dev/
+# txt files
+docs/*.txt
+etc/
+mingw64/
+tmp/
+usr/
+git-bash.exe
+git-cmd.exe
+LICENSE.php
+ReleaseNotes.html
+unins000.dat
+unins000.exe
+unins000.msg
